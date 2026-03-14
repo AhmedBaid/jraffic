@@ -6,6 +6,8 @@ This project is a real-time traffic simulation built in **Java** using the **Jav
 
 This simulation was developed to solve the "Traffic, traffic, traffic..." challenge, implementing specific rules for road layout, traffic light signaling, and vehicle behavior.
 
+![Video](java_video_jraffic.webm)
+
 ## Features
 
 * **Interactive Simulation**: Users can manually spawn cars from different directions using keyboard controls, or spawn them randomly.
