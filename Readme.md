@@ -6,8 +6,6 @@ This project is a real-time traffic simulation built in **Java** using the **Jav
 
 This simulation was developed to solve the "Traffic, traffic, traffic..." challenge, implementing specific rules for road layout, traffic light signaling, and vehicle behavior.
 
-![Video](java_video_jraffic.webm)
-
 ## Features
 
 * **Interactive Simulation**: Users can manually spawn cars from different directions using keyboard controls, or spawn them randomly.
@@ -30,7 +28,7 @@ Ensure you have the **Java Development Kit (JDK)** installed on your system.
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/AhmedBaid/jraffic.git](https://github.com/AhmedBaid/jraffic.git)
+    git clone https://github.com/AhmedBaid/jraffic.git
     cd road_intersection
     ```
 
